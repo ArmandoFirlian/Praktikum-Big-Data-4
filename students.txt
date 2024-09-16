@@ -1,0 +1,6 @@
+mando,18,4.0
+firli,20,2.9
+mona,20,3.2
+kala,18,3.6
+yanto,20,3.3
+wukong,18,2.1
